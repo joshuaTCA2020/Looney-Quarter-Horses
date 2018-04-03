@@ -1,0 +1,68 @@
+body {
+background-image: url("http://gdurl.com/PyRW");
+}
+      ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2288ee;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+h2.w3-center {
+  text-align: center;
+}
+
+div.w3-content {
+  text-align: center; 
+  
+}
+
+img.mySlides {
+  max-height: 525px;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button.w3-button {
+  Margin: 6px 6px;
+  width: 45px;
+  background-color: #999;
+  height: 30px;
+
+}
+button.w3-button:hover {
+  background-color: #89a0f4;
+}
+img.looney {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px 0px;
+  width: 25%;
+  height: 30%;
+}
